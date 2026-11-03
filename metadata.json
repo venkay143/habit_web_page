@@ -1,0 +1,6 @@
+{
+  "name": "HabitCraft - Persona-Based Daily Habit Tracker",
+  "description": "An elegant, comprehensive daily habit tracker featuring curated baseline habit systems for different lifestyles and personas—engineers, athletes, creatives, leaders, and students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
